@@ -1,5 +1,7 @@
-# A-B_Testing
+# A/B Testing
+
 https://suleymansennn-a-b-testing-streamlit-ab-testing-dqe0vz.streamlit.app/
+
 A/B testing is a statistical method used to compare two versions of a product or service to determine which performs better. It is commonly used in the fields of marketing and software development to optimize websites, apps, and other digital products for maximum effectiveness.
 
 To conduct an A/B test, a control group is first identified. This group represents the current version of the product or service, and serves as a baseline for comparison. The control group is then split into two subgroups, with one subgroup receiving the current version (also known as the "A" version) and the other receiving the modified version (the "B" version).
