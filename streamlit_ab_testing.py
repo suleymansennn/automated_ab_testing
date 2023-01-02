@@ -154,7 +154,7 @@ def plot_result(test_stat, result):
         st.text(f"""Is Significant?
 {result}""")
     fig = px.bar(df.groupby(ab).mean().reset_index(), y=target, color=ab,
-                 title=f"Histogram of {target.capitalize()} by {ab.capitalize()}", )
+                 title=f"Mean of {target.capitalize()} by {ab.capitalize()}", )
     st.plotly_chart(fig)
 
 
