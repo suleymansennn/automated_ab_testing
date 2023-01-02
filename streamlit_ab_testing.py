@@ -42,6 +42,7 @@ if default:
 
 else:
     data = st.sidebar.file_uploader('Upload a CSV')
+    df = data.getvalue()
     df = pd.read_csv(data)
 
 ab = st.sidebar.selectbox("Pick AB Column", df.columns.tolist())
