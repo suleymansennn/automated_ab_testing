@@ -17,3 +17,8 @@ There are a few key considerations to keep in mind when conducting an A/B test:
 - Confounding variables: It's important to control for any confounding variables that could affect the results of the A/B test. For example, if you are testing a new landing page design, you want to make sure that all other variables (such as the traffic source or the time of day) are held constant to ensure that the results of the test are accurate.
 
 A/B testing is a powerful tool for optimizing digital products and making data-driven decisions. By comparing two versions of a product or service, businesses and organizations can determine which version is more effective and make informed decisions about future improvements.
+
+
+
+https://user-images.githubusercontent.com/83352965/210338020-96ccd1bf-2fc7-4253-8683-97c9e9db8205.mp4
+
