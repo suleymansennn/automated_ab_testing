@@ -3,9 +3,6 @@ import streamlit as st
 from scipy.stats import shapiro, levene, ttest_ind, mannwhitneyu
 import plotly.express as px
 import statsmodels.api as sm
-import warnings
-with warnings.catch_warnings():
-     warnings.filterwarnings("ignore")
 
 pd.set_option("display.max_columns", None)
 pd.set_option("display.float_format", lambda x: "%.5f" % x)
