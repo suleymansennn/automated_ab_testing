@@ -20,5 +20,8 @@ A/B testing is a powerful tool for optimizing digital products and making data-d
 
 
 
-https://user-images.githubusercontent.com/83352965/210338020-96ccd1bf-2fc7-4253-8683-97c9e9db8205.mp4
+
+
+
+https://user-images.githubusercontent.com/83352965/210339634-9463e046-efa3-451e-9107-d7826d320be3.mp4
 
